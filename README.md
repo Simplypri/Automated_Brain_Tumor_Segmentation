@@ -1,6 +1,6 @@
 # Brain Tumor Segmentation using Deep Learning
 
-Data is downloaded from: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47436290-13a0-4b30-8fbc-cdd7698f9c89" />
+Data is downloaded from: https://www.kaggle.com/datasets/awsaf49/brats2020-training-data/data
 
 
 ## Project Overview
