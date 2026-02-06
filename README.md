@@ -1,13 +1,7 @@
 # Brain Tumor Segmentation using Deep Learning
 
-**Authors:**  
-- Tri Nguyen – [trihnguy@iu.edu](mailto:trihnguy@iu.edu)  
-- Varalakshmi Perumal – [vaperu@iu.edu](mailto:vaperu@iu.edu)  
-- Priyanka Prem Kumar – [prpremk@iu.edu](mailto:prpremk@iu.edu)  
+Data is downloaded from: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47436290-13a0-4b30-8fbc-cdd7698f9c89" />
 
-**Affiliation:** Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, USA  
-
----
 
 ## Project Overview
 
